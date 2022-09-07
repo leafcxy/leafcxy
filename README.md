@@ -15,14 +15,6 @@
 2. Code 128比Code 39能表现更多的字符，单位长度里的编码密度更高。当单位长度里不能容下Code 39编码或编码字符超出了Code 39的限制时，就可选择Code 128来编码。所以Code 128比Code 39更具灵性；
 3. 讀取時需直線掃描；
 
-## 存在未完成维修记录问题
-
-```SQL
-select top 1000 * from UUT_RepairRecordList where TRIOLabelNo='10072200001100243'
-select top 1000 * from Engg.Engg.UUT_RepairRecordListN where TRIOLabelNo='10072200001100243'
---delete UUT_RepairRecordListN where code='50604273'
-```
-
 <!--
 **leafcxy/leafcxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
