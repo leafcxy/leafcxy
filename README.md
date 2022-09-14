@@ -1,32 +1,19 @@
-### Hi there 👋
+## Hey, leafcxy here! :wave: 
 
-## Code 39
+----
 
-1. Code 39码只接受以下43个有效输入字符：
-    - 26个大写字母（A - Z）；
-    - 十个数字（0 - 9）；
-    - 连接号(-)、句号（.）、空格、美圆符号($)、斜扛(/)、加号(+)、百分号(%)；
-    - 其馀的输入将被忽略。
-2. 讀取時需直線掃描；
+简体中文 | [English](https://github.com/leafcxy/leafcxy/blob/main/README.EN.md)
 
-## Code 128
-
-1. Code 128 码可表示从 ASCII 0 到ASCII 127 共128个字符，其中包含了数字、字母和符号字符；
-2. Code 128比Code 39能表现更多的字符，单位长度里的编码密度更高。当单位长度里不能容下Code 39编码或编码字符超出了Code 39的限制时，就可选择Code 128来编码。所以Code 128比Code 39更具灵性；
-3. 讀取時需直線掃描；
-
-<!--
-**leafcxy/leafcxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [leafcxy的博客：leafcxy.github.io](http://leafcxy.github.io/)  
+### 个人简介
+- leafcxy，男，95后，程序猿，**高级CV工程师**，资深哲♂学家，SNP大一统理论研究爱好者，新日暮里娼片公司继承人，懒得勤快博客站长，微软、阿里巴巴等集团投资人，京东、淘宝等电商平台战略合作伙伴。
+- 现任职于：	尻♂立新日暮里♂大学·哲♂学教授；新日暮里♂娼片公司·总茎♂理兼CEO；幻想乡♂影视传媒·传播dark♂使；广door纳斯♂dark克公司·平家♂boy；新日暮里驻华大shit♂馆·馆长
+- 南山下，码农一枚。酷爱编程，乐于分享。
+- 18年开始接触编程，致力于更好的分享技术，分享人生。
+- 程序菜鸟，初心不改！依然喜欢写代码到深夜，最喜欢深夜代码伴随着的键盘声。
+- **善于写别人看不懂的代码和上万行的屎山函数，以彰显自己不可替代的地位。**<del>(不信你们可以看看我的开源项目)</del>
+- 喜欢折腾和搞机，追求新鲜的硬件数码设备，也欢迎小伙伴们一起讨论搞机经验，一起来tree new bee；
+- 2005年就读于美国联邦总局学院，2006年美国时代周刊年度年度人物，2008年感动中国组委会特别大奖，2010年被奥巴马请回到海豹突击队，2011年参加了美国总统选举二次落选，2012年被提名为世界最具影响力人物，2014年放弃一生辉煌隐退在互联网当码农；
+- 作为Microsoft、Google、Intel、NVIDIA、Qualcomm、中国电信、阿里巴巴集团、百度、腾讯、京东、哔哩哔哩、招商银行、台湾华硕股份、深圳万普拉斯科技、中国证监局、国家电网、中国铁路局等数十家国内外企业的投资人之一，并且保持着长期稳定的贸易与投资关系，每年助力企业产生数百亿的交易额的同时，为人低调；
+- 同时也是一位B站资深哲♂学家，探索未知领域😏。
 
