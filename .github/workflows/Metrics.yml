@@ -29,11 +29,11 @@ jobs:
 
           plugin_achievements: yes
 
-          plugin_achievements_threshold: X  # （显示尚未解锁的成就筹码）
-          plugin_achievements_display: detailed  # 详细的成就芯片描述
+          #plugin_achievements_threshold: X  # （显示尚未解锁的成就筹码）
+          #plugin_achievements_display: detailed  # 详细的成就芯片描述
 
           plugin_calendar: yes  # 显示当前和以后年份的活动
-          plugin_calendar_limit: 11 # 显示多年来的活动
+          plugin_calendar_limit: 3 # 显示多年来的活动
 
           plugin_habits: yes  # 昼夜活动
           plugin_habits_facts: yes  # 显示您一周活动的分析
@@ -42,15 +42,15 @@ jobs:
           plugin_licenses: yes  # 许可证信息
           plugin_licenses_setup: npm ci  # 适用许可证详细信息
 
-          plugin_skyline: yes  # Skyline 3D活动插件
-          plugin_skyline_year: 2025 # 哪一年
-          plugin_skyline_frames: 120  # 人员数量
-          plugin_skyline_quality: 1  # 质量1-最好
+          #plugin_skyline: yes  # Skyline 3D活动插件
+          #plugin_skyline_year: 2025 # 哪一年
+          #plugin_skyline_frames: 120  # 人员数量
+          #plugin_skyline_quality: 1  # 质量1-最好
 
           plugin_stargazers: yes  # 月活动
           plugin_stargazers_charts_type: chartist  # 活动类型-平滑线
 
-          plugin_support: yes  # 支持插件
+          #plugin_support: yes  # 支持插件
 
           plugin_topics: yes  # 插件和可溶解主题
           plugin_topics_limit: 0

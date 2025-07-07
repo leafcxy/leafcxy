@@ -1,3 +1,17 @@
+![](assets/Bottom_up.svg)
+
+<!-- my-header-img -->
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+<!-- green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/leafcxy/leafcxy/output/github-contribution-grid-snake.svg)
+
+<!-- profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 ## Hey, leafcxy here! :wave: 
 
 ### [leafcxy的博客：leafcxy.github.io](http://leafcxy.github.io/)  
@@ -12,3 +26,5 @@
 - 2005年就读于美国联邦总局学院，2006年美国时代周刊年度年度人物，2008年感动中国组委会特别大奖，2010年被奥巴马请回到海豹突击队，2011年参加了美国总统选举二次落选，2012年被提名为世界最具影响力人物，2014年放弃一生辉煌隐退在互联网当码农；
 - 作为Microsoft、Google、Intel、NVIDIA、Qualcomm、中国电信、阿里巴巴集团、百度、腾讯、京东、哔哩哔哩、招商银行、台湾华硕股份、深圳万普拉斯科技、中国证监局、国家电网、中国铁路局等数十家国内外企业的投资人之一，并且保持着长期稳定的贸易与投资关系，每年助力企业产生数百亿的交易额的同时，为人低调；
 - 同时也是一位B站资深哲♂学家，探索未知领域😏。
+
+![](assets/Bottom_down.svg)
