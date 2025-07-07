@@ -3,12 +3,11 @@
 <!-- green snake -->
 ![leafcxy's github activity graph](https://raw.githubusercontent.com/leafcxy/leafcxy/output/github-contribution-grid-snake.svg)
 
-## Hey, leafcxy here! :wave: 
+## [leafcxy的博客：leafcxy.github.io](http://leafcxy.github.io/)
 
-### [leafcxy的博客：leafcxy.github.io](http://leafcxy.github.io/)  
 ### 个人简介
 - leafcxy，男，95后，程序猿，**高级CV工程师**，资深哲♂学家，SNP大一统理论研究爱好者，新日暮里娼片公司继承人，leafcxy博客站长，微软、阿里巴巴等集团投资人，京东、淘宝等电商平台战略合作伙伴。
-- 现任职于：	尻♂立新日暮里♂大学·哲♂学教授；新日暮里♂娼片公司·总茎♂理兼CEO；幻想乡♂影视传媒·传播dark♂使；广door纳斯♂dark克公司·平家♂boy；新日暮里驻华大shit♂馆·馆长
+- 现任职于：尻♂立新日暮里♂大学·哲♂学教授；新日暮里♂娼片公司·总茎♂理兼CEO；幻想乡♂影视传媒·传播dark♂使；广door纳斯♂dark克公司·平家♂boy；新日暮里驻华大shit♂馆·馆长
 - 南山下，码农一枚。酷爱编程，乐于分享。
 - 18年开始接触编程，致力于更好的分享技术，分享人生。
 - 程序菜鸟，初心不改！依然喜欢写代码到深夜，最喜欢深夜代码伴随着的键盘声。
