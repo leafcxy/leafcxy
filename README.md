@@ -1,16 +1,7 @@
 ![](assets/Bottom_up.svg)
 
-<!-- my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-
 <!-- green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/leafcxy/leafcxy/output/github-contribution-grid-snake.svg)
-
-<!-- profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+![leafcxy's github activity graph](https://raw.githubusercontent.com/leafcxy/leafcxy/output/github-contribution-grid-snake.svg)
 
 ## Hey, leafcxy here! :wave: 
 
